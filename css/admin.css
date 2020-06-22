@@ -1,0 +1,67 @@
+body {
+font-size: 14px;
+color: #000;
+font-family: Comic Sans MS;
+background: url("../images/headadmin.jpg");
+}
+
+a {
+color: #000;
+text-decoration: none;
+list-style: none;
+}
+
+a:hover {
+color: #12ff00;
+}
+
+h1 h2 h3 {
+color: #4094bf;
+}
+
+/*login*/
+
+.form {
+width: 320px;
+height: 200px;
+padding: 0px;
+margin: auto;
+margin-top: 12%;
+}
+
+.form label {
+color: #777;
+margin-top: 8%;
+}
+
+input[type=text]{
+ height: 25px;
+ padding: 0 0 0 0;
+ margin-bottom: 5px;
+ color: #000;
+}
+
+input[type=password]{
+ height: 25px;
+ padding: 0 0 0 0;
+ margin-bottom: 5%;
+ margin-left: 5px;
+ color: #000;
+}
+
+input[type=submit]{
+ height: 50px;
+ width: 50%;
+ padding: 0 0 0 0;
+ background:#53bd84;
+ color: #fff;
+}
+.back{
+  color: white;
+}
+.gambar {
+  background-color: rgba(30, 114, 123 ,0.6);
+  height: 330px;
+  border: 2px solid rgba(100, 114, 123 ,1);
+  border-radius: 10px;
+} 
